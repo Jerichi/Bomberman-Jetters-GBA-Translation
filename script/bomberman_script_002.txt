@@ -47,24 +47,24 @@ the house next to me.<END>
 //POINTER #2 @ $1C1B44 - STRING #2 @ $1BDF67
 
 #WRITE(GBA,$1C1B44)
-ミドリはかせの けんきゅうじょなら<LINE>
-ずっとひがしの フォレスタウンにあるよ<NEWBOX>
-フォレスタウンへは いちど きたへむかい<LINE>
-きたのだんがいを ぬけていくのさ<END>
+Professor Green's laboratory is<LINE>
+just to the east of Forest Town.<NEWBOX>
+If you're facing north away from Forest Town,<LINE>
+you can see it on the northern cliff.<END>
 
 //POINTER #3 @ $1C1B48 - STRING #3 @ $1BDFB3
 
 #WRITE(GBA,$1C1B48)
-ミドリはかせは こだいの いせきを<LINE>
-けんきゅうしているのよ<NEWBOX>
-さいきん いせきから おおきな<LINE>
-こうせんほうを みつけたそうよ<NEWBOX>
-でんせつによると それは とてもつよい<LINE>
-はかいりょくを もっていた らしいの<NEWBOX>
-おおむかしの ものだから<LINE>
-まさか うごかないとは おもうけど<NEWBOX>
-ぼうはつとか しないか<LINE>
-ちょっと こわいわ<END>
+Professor Green is conducting<LINE>
+reasearch on the ancient ruins.<NEWBOX>
+I heard that someone recently<LINE>
+found a big Beam Gun.<NEWBOX>
+According to legend, it holds an extremely<LINE>
+powerful destructive force.<NEWBOX>
+Because it's such an old relic,<LINE>
+I think it shouldn't be moved, but<NEWBOX>
+It might accidentally go off...<LINE>
+It's a little scary.<END>
 
 //POINTER #4 @ $1C1B4C - STRING #4 @ $1BE04D
 
@@ -80,8 +80,8 @@ but you will, right?<END>
 //POINTER #5 @ $1C1B50 - STRING #5 @ $1BE0C9
 
 #WRITE(GBA,$1C1B50)
-じめんが いっぱいゆれて こわかった‥‥<LINE>
-いったい なにが おきたんだろ?<END>
+The ground shook a lot. It was scary‥‥<LINE>
+What do you think it was?<END>
 
 //POINTER #6 @ $1C1B54 - STRING #6 @ $1BE0EF
 
@@ -117,10 +117,10 @@ so please be careful alright?<END>
 おや こんなところまで よくきたね<LINE>
 ボクらは キャラボンけんきゅうか<NEWBOX>
 キャラボンについて はなしを きくかい?<LINE>
-    はい       いいえ<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$27><$04><$29>あ! にしアクアにいく はしが<LINE>
-なおったんだね!<NEWBOX>
-やっぱり あそこの だいくさんは<LINE>
-すごいなぁ<END>
+    はい       いいえ<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$27><$04><$29>Hey, the bridge to get to West Aqua<LINE>
+was fixed!<NEWBOX>
+That carpenter is pretty<LINE>
+great!<END>
 
 //POINTER #9 @ $1C1B60 - STRING #9 @ $1BE270
 
@@ -134,11 +134,11 @@ so please be careful alright?<END>
 
 #WRITE(GBA,$1C1B64)
 In the forest north of Aqua<LINE>
-there are ,<NEWBOX>
-one to the east of Aqua,<LINE>
-and another around the forest<NEWBOX>
-in the side of a cliff to the north.<LINE>
-はいる いりぐちよ<END>
+there are two caves,<NEWBOX>
+that you can enter. <LINE>
+There's one to the east of Aqua,<NEWBOX>
+and another around the forest<LINE>
+in the side of a cliff to the north.<END>
 
 //POINTER #11 @ $1C1B68 - STRING #11 @ $1BE2FB
 #ACTIVETBL(engTable)
@@ -171,8 +171,8 @@ I wonder what would've caused it...<END>
 //POINTER #14 @ $1C1B74 - STRING #14 @ $1BE3F4
 
 #WRITE(GBA,$1C1B74)
-かわぞいにたっている すこしほそい きは<LINE>
-ばくふうを あてると たおせるよ<END>
+A few thin trees along the side of the river<LINE>
+were knocked down by the tremor.<END>
 
 //POINTER #15 @ $1C1B78 - STRING #15 @ $1BE41A
 
