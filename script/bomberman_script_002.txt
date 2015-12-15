@@ -1317,11 +1317,11 @@ Bボタンをおすと まえからのたまを ふせぐよ<NEWBOX>
 //POINTER #134 @ $1C1D54 - STRING #134 @ $1C0D20
 
 #WRITE(GBA,$1C1D54)
-いらっしゃいませ ここは<LINE>
-アイテムごうせいや です<NEWBOX>
-ここでは ごうせいそざいAと<LINE>
-ごうせいそざいBを かけあわせて<NEWBOX>
-あたらしい アイテムを<LINE>
+Welcome to the Item <LINE>
+Synthesis Shop!<NEWBOX>
+Here, you can take one Synthesis Material<LINE>
+and combine it with another<NEWBOX>
+to make a new item!<LINE>
 つくることが できます<NEWBOX>
 <CONTROL_CODE><$01><$02>ギ3N<CONTROL_CODE><$03><$02>ギ<CONTROL_CODE><$00><$04>K<CONTROL_CODE><$1C><$00>93ぴ<CONTROL_CODE><$13><$01><WAIT>
 
@@ -1748,9 +1748,9 @@ stop their plans for me.<WAIT>
 //POINTER #186 @ $1C1E24 - STRING #186 @ $1C15EB
 
 #WRITE(GBA,$1C1E24)
-<CONTROL_CODE><$0D><$08><$FD>こんかいは らいてんきねんに<LINE>
-アルバムを さしあげます<NEWBOX>
-ボンバーマンは アルバムを<LINE>
+<CONTROL_CODE><$0D><$08><$FD>To commemorate your first visit,<LINE>
+have an item!<NEWBOX>
+Bomberman obtained an item! <LINE>
 てにいれた!<CONTROL_CODE><$03><$01>8<CONTROL_CODE><$12><$0C><NEWBOX>
 <CONTROL_CODE><$00><$04>Nおっ! キャラボンずかんが<LINE>
 ぜんぶ うまっているじゃないか<NEWBOX>
@@ -1813,9 +1813,9 @@ stop their plans for me.<WAIT>
 //POINTER #191 @ $1C1E38 - STRING #191 @ $1C16B3
 
 #WRITE(GBA,$1C1E38)
-ごうせいりょうきんは いっかい 10Gです<NEWBOX>
-ごうせい しますか?<LINE>
-    はい       いいえ<CONTROL_CODE><$17><$03>1い13ど3ばボンバーマンは タマゴを<LINE>
+It only costs 10G to to synthesize.<NEWBOX>
+Do you want to synthesize?<LINE>
+    Yes       No<CONTROL_CODE><$17><$03>1い13ど3ばボンバーマンは タマゴを<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #192 @ $1C1E3C - STRING #192 @ $1C16EE
