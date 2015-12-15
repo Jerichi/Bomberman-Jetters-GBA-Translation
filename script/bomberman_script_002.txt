@@ -133,11 +133,11 @@ so please be careful alright?<END>
 //POINTER #10 @ $1C1B64 - STRING #10 @ $1BE2A0
 
 #WRITE(GBA,$1C1B64)
-アクアのきたにある もりへは<LINE>
-いりぐちが ふたつあるの<NEWBOX>
-ひとつは にしアクアにある いりぐち<LINE>
-もうひとつは もりを ぐるっとまわって<NEWBOX>
-きたの だんがいのよこから<LINE>
+In the forest north of Aqua<LINE>
+there are ,<NEWBOX>
+one to the east of Aqua,<LINE>
+and another around the forest<NEWBOX>
+in the side of a cliff to the north.<LINE>
 はいる いりぐちよ<END>
 
 //POINTER #11 @ $1C1B68 - STRING #11 @ $1BE2FB
@@ -258,7 +258,7 @@ by bird.<CONTROL_CODE_E001><$02><$00><$04><$18><END>
 <NEWBOX>
 Ah, this is my Axe, isn't it!?<LINE>
 Thank you for returning it.<NEWBOX>
-Alright! now that I can cut the trees.<LINE>
+Alright! Now that I can cut down the trees.<LINE>
 I'll fix the bridge in no time.<NEWBOX>
 I don't need this <GET_ITEM_NAME><$2B>,<LINE>
 so I'll give it to you.<NEWBOX>
@@ -271,18 +271,18 @@ OK! I'll cut it!<END>
 //POINTER #25 @ $1C1BA0 - STRING #25 @ $1BE75C
 
 #WRITE(GBA,$1C1BA0)
-よーし これだけあれば じゅうぶんだろう<LINE>
-むらにかえって はしを なおすぞ<END>
+Alright, this should be plenty.<LINE>
+I'll go back to town and fix the bridge.<END>
 
 //POINTER #26 @ $1C1BA4 - STRING #26 @ $1BE782
 
 #WRITE(GBA,$1C1BA4)
-ふぅ これで はしも もとどおりだ<LINE>
-いままでどおり ひがしアクアむらに いけるぞ<NEWBOX>
-ありがとうよ ボンバーマン<LINE>
-おまえさんのおかげで はしをなおせたよ<NEWBOX>
-このはしのむこうが ひがしアクアむらだ<LINE>
-それじゃ きをつけていくんだぞ<END>
+Well, it's good as new.<LINE>
+Now, people can get to East Aqua Town.<NEWBOX>
+Thank you, Bomberman.<LINE>
+Thanks to you, I was able to fix the bridge.<NEWBOX>
+Across the bridge is East Aqua.<LINE>
+Well then, take care.<END>
 
 //POINTER #27 @ $1C1BA8 - STRING #27 @ $1BE7F1
 
@@ -1386,14 +1386,14 @@ Bボタンをおすと まえからのたまを ふせぐよ<NEWBOX>
 //POINTER #145 @ $1C1D80 - STRING #145 @ $1C0E8D
 
 #WRITE(GBA,$1C1D80)
-<CONTROL_CODE><$01<LINE>
-ふっかつキノコに ちゅうい!<END>
+<CONTROL_CODE><$01>ゆ3 Aqua Forest<LINE>
+Watch out for the regrowing mushrroms!<END>
 
 //POINTER #146 @ $1C1D84 - STRING #146 @ $1C0EAE
 
 #WRITE(GBA,$1C1D84)
-<CONTROL_CODE><$01><$01>ゆ3(HEART)ここは にしアクア<LINE>
-ひがしに いくと ひがしアクア<END>
+<CONTROL_CODE><$01><$01>ゆ3(HEART)West Aqua<LINE>
+To the east is East Aqua<END>
 
 //POINTER #147 @ $1C1D88 - STRING #147 @ $1C0ECE
 
