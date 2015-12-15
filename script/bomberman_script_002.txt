@@ -41,7 +41,7 @@ Anyway, the village Carpenter will<LINE>
 fix the bridge as soon as he can.<NEWBOX>
 He can be a little careless<LINE>
 sometimes, but he's strong.<NEWBOX>
-A married couple lives in<LINE>
+He and his wife live<LINE>
 the house next to me.<END>
 #ACTIVETBL(Table)
 //POINTER #2 @ $1C1B44 - STRING #2 @ $1BDF67
@@ -1386,7 +1386,7 @@ Bボタンをおすと まえからのたまを ふせぐよ<NEWBOX>
 //POINTER #145 @ $1C1D80 - STRING #145 @ $1C0E8D
 
 #WRITE(GBA,$1C1D80)
-<CONTROL_CODE><$01><$01>ゆ3▼これより アクアのもり<LINE>
+<CONTROL_CODE><$01<LINE>
 ふっかつキノコに ちゅうい!<END>
 
 //POINTER #146 @ $1C1D84 - STRING #146 @ $1C0EAE
