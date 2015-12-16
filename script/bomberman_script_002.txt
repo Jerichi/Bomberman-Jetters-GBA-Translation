@@ -187,19 +187,19 @@ were knocked down by the tremor.<END>
 //POINTER #16 @ $1C1B7C - STRING #16 @ $1BE479
 
 #WRITE(GBA,$1C1B7C)
-<CONTROL_CODE><$16><$04>Tあら けがを してるじゃないの<LINE>
-ちょっと じっとしていてね‥‥<NEWBOX>
-<CONTROL_CODE><$11><$E0>くよハイ これでだいじょうぶ<LINE>
-あんまり ムリしちゃ ダメよ<END>
+<CONTROL_CODE><$16><$04>T Oh, are you hurt?<LINE>
+Just a moment‥‥<NEWBOX>
+<CONTROL_CODE><$11><$E0>くよThere, that should be better.<LINE>
+No, no, it was nothing.<END>
 
 //POINTER #17 @ $1C1B80 - STRING #17 @ $1BE4BE
 
 #WRITE(GBA,$1C1B80)
-<CONTROL_CODE><$01><$02>う3アすこしまえに みなみのもりに<LINE>
-うちゅうせんが おりてきたの<NEWBOX>
-それから まちのそとを ヘンなやつらが<LINE>
-うろついているの‥‥<NEWBOX>
-なんだか こわいわ<END>
+<CONTROL_CODE><$01><$02>う3アA little while ago, a spaceship<LINE>
+fell into the forest in the south.<NEWBOX>
+Since then, a bunch of guys have been<LINE>
+hanging around outside of town‥‥<NEWBOX>
+It's sorta scary...<END>
 
 //POINTER #18 @ $1C1B84 - STRING #18 @ $1BE50B
 
@@ -1094,20 +1094,20 @@ Alright, that's the game!<END>
 
 #WRITE(GBA,$1C1CE0)
 Are you here to get some unmelting ice?<LINE>
-ここの こおりは なかなか とけないから<NEWBOX>
-いろいろとつかえて べんりなんだ<LINE>
-ごうせいやで ごうせいしてくれるよ<NEWBOX>
-いちど ごうせいすると なくなってしまうけど<LINE>
-また ここにくれば てにはいるよ<NEWBOX>
-おくにある おおきな こおりに<LINE>
-つよいしょうげきを あたえれば<NEWBOX>
-こおりのかけらが おちてくるよ<END>
+The ice here doesn't melt very quickly,<NEWBOX>
+so you can use it for quite a lot!<LINE>
+You can even Synthesize it at the Synthesis Shop.<NEWBOX>
+Once you've synthesized something with it, it will disappear,<LINE>
+but you can come back and get more here.<NEWBOX>
+The giant block of ice in the cave<LINE>
+will drop a piece if there is<NEWBOX>
+a big enough blast.<END>
 
 //POINTER #106 @ $1C1CE4 - STRING #106 @ $1C07AF
 
 #WRITE(GBA,$1C1CE4)
-ボンバーマンは こおりのかけらを<LINE>
-てにいれた!<CONTROL_CODE><$12><$0C><END>
+Bomberman got the Ice Piece!<LINE>
+CONTROL_CODE><$12><$0C><END>
 
 //POINTER #107 @ $1C1CE8 - STRING #107 @ $1C07CA
 
@@ -1415,7 +1415,7 @@ please speak to the gatekeeper.<END>
 //POINTER #150 @ $1C1D94 - STRING #150 @ $1C0F2A
 
 #WRITE(GBA,$1C1D94)
-<CONTROL_CODE><$01><$01>ゆ3Dここは フォレスタウン<END>
+<CONTROL_CODE><$01><$01>ゆ3DForest Town<END>
 
 //POINTER #151 @ $1C1D98 - STRING #151 @ $1C0F3C
 
@@ -1851,19 +1851,19 @@ Do you want to synthesize?<LINE>
 //POINTER #197 @ $1C1E50 - STRING #197 @ $1C176C
 
 #WRITE(GBA,$1C1E50)
-フォレスタウンに ようこそ<LINE>
-けんきゅうじょは まちの みなみにあるわよ<NEWBOX>
-まちを にしにぬけると<LINE>
-こうせんほうの はっくつげんばがあるわ<END>
+Welcome to Forest Town!<LINE>
+The Lab is in the south of town.<NEWBOX>
+If you head west out of town,<LINE>
+you can find the excavation site where the Beam Gun is.<END>
 
 //POINTER #198 @ $1C1E54 - STRING #198 @ $1C17B0
 
 #WRITE(GBA,$1C1E54)
-ほっほう アイスボムか‥‥<LINE>
-なかなか いいものを つくったねぇ<NEWBOX>
-みずは こおらせると かたまり<LINE>
-こおりは ほのおにあたると とけるのじゃ<NEWBOX>
-だいじなことだから おぼえておきなさい‥‥<END>
+Oho, an Ice Bomb?‥‥<LINE>
+What a nice item.<NEWBOX>
+If you freeze water, it will harden.<LINE>
+If you hit the ice with flames, it will melt.<NEWBOX>
+Keep that in mind. It's important!‥‥<END>
 
 //POINTER #199 @ $1C1E58 - STRING #199 @ $1C180B
 
