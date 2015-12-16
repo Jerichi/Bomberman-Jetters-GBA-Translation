@@ -561,26 +561,26 @@ a mini-game, I'll give it back.<END>
 //POINTER #53 @ $1C1C10 - STRING #53 @ $1BF2F9
 
 #WRITE(GBA,$1C1C10)
-まけちゃった‥‥ でもやくそくだから<LINE>
-このカギはかえすよ ハイ<NEWBOX>
-<CONTROL_CODE><$03><$02>いボンバーマンは もんのカギを<LINE>
+I lost... but I made a promise.<LINE>
+Here's your key back. Here.<NEWBOX>
+<CONTROL_CODE><$03><$02>いBomberman obtained the Gate Key.<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><CONTROL_CODE><$03><$01>ね<NEWBOX>
-ねぇ おねがいがあるんだ<LINE>
-ボクもいっしょに つれていってほしいんだ<NEWBOX>
-ボクもそとのせかいを いろいろみてみたいんだ<LINE>
-ねぇ‥‥ いいでしょ?<NEWBOX>
+Hey, can you do me a favor?<LINE>
+I want to go along with you.<NEWBOX>
+I want to see the outwide world!<LINE>
+Would that be okay?<NEWBOX>
 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥<NEWBOX>
-‥‥えっ つれていってくれるの!?<LINE>
-ありがとう ボクのなまえは シェル よろしくね<END>
+huh... I can go!?<LINE>
+Thanks! My name is Shell! Nice to meet you!<END>
 
 //POINTER #54 @ $1C1C14 - STRING #54 @ $1BF3BA
 
 #WRITE(GBA,$1C1C14)
-キャラボン シェルがなかまになった!<LINE>
-<CONTROL_CODE><$22><$00><CONTROL_CODE><$12><$5C>ボクののうりょくは シールド<NEWBOX>
-まえから とんでくるものを ふせぐよ<NEWBOX>
-ボクを Bボタンにセットする?<LINE>
-    はい       いいえ<CONTROL_CODE><$05><$03>1い13ナ3ニこのまえの じひびきで<LINE>
+The Charabom Shell became your friend!<LINE>
+<CONTROL_CODE><$22><$00><CONTROL_CODE><$12><$5C>My power is Shield.<NEWBOX>
+I can protect you from things flying at you from the front.<NEWBOX>
+Do you want to set me to the B Button??<LINE>
+    Yes       No<CONTROL_CODE><$05><$03>1い13ナ3ニこのまえの じひびきで<LINE>
 はしが おちてしもうた<NEWBOX>
 まえから ボロボロじゃったから<LINE>
 いつか おちるとは おもっていたが‥‥<NEWBOX>
@@ -592,24 +592,24 @@ a mini-game, I'll give it back.<END>
 //POINTER #55 @ $1C1C18 - STRING #55 @ $1BF41F
 
 #WRITE(GBA,$1C1C18)
-このまえの じひびきで<LINE>
-はしが おちてしもうた<NEWBOX>
-まえから ボロボロじゃったから<LINE>
-いつか おちるとは おもっていたが‥‥<NEWBOX>
-はしのちかくで ふきだした ちかすいが<LINE>
-まるたを おしあげているんじゃが<NEWBOX>
-なんとか あの まるたで むこうがわへ<LINE>
-わたれないものかのう‥‥<END>
+After that tremor earlier,<LINE>
+the bridge fell down.<NEWBOX>
+It was quite worn out before,<LINE>
+so I had a feeling that it was going to collapse‥‥<NEWBOX>
+Next to the bridge, there's a geyser<LINE>
+that lifts up a log.<NEWBOX>
+You might be able to use it to cross<LINE>
+to the other side somehow‥‥<END>
 
 //POINTER #56 @ $1C1C1C - STRING #56 @ $1BF4A1
 
 #WRITE(GBA,$1C1C1C)
-<CONTROL_CODE><$01><$01>け3Uここから にしにいった もりのきたの<LINE>
-どうくつのなかに ふしぎなこおりがある<NEWBOX>
-なかなかとけないから いろんなものを<LINE>
-ひやしたり こおらせるのに べんりなのじゃ<NEWBOX>
-ひがしアクアの ごうせいやに もっていけば<LINE>
-ほかのアイテムと ごうせいしてくれるぞい<END>
+<CONTROL_CODE><$01><$01>け3UIn the western part of a the forest<LINE>
+to the north, there is a cave that holds some strange ice.<NEWBOX>
+The ice isn't completely frozen, so there<LINE>
+you can keep things cold or frozen. It's quite useful!<NEWBOX>
+If you take them to the Synthesis Shop in East Aqua,<LINE>
+you can synthesize them with other items.<END>
 
 //POINTER #57 @ $1C1C20 - STRING #57 @ $1BF522
 
@@ -642,26 +642,26 @@ and it was carried south...<END>
 //POINTER #60 @ $1C1C2C - STRING #60 @ $1BF649
 
 #WRITE(GBA,$1C1C2C)
-あ! それは もんのカギじゃないか<LINE>
-みつけてきてくれたんだね ありがとう!<NEWBOX>
-これで もんを あけしめできるよ<LINE>
-ほんとうに ありがとう<NEWBOX>
-じゃあ さっそく もんをあけるよ<END>
+Oh! That's the gate key!<LINE>
+Thanks for finding it for me!<NEWBOX>
+Now I can open and close the gate.<LINE>
+Thank you so much.<NEWBOX>
+Alright, I'll open the gate right now.<END>
 
 //POINTER #61 @ $1C1C30 - STRING #61 @ $1BF69D
 
 #WRITE(GBA,$1C1C30)
-これで きたのだんがいを とおって<LINE>
-フォレスタウンに いけるよ<NEWBOX>
-もんのカギを みつけてくれたおれいに<LINE>
-この ボムノモトをあげよう<NEWBOX>
-ボンバーマンは<LINE>
-ボムノモトを てにいれた!<CONTROL_CODE><$12><$0C><CONTROL_CODE><$03><$01>の<NEWBOX>
-これは いろいろなものと ごうせいできる<LINE>
-ごうせいそざい らしいんだけど<NEWBOX>
-きみなら うまくつかいこなせそうだ<LINE>
-ごうせいやで いろいろ ためしてみるといいよ<NEWBOX>
-それじゃ きをつけてね<END>
+Now you can go to the cliff<LINE>
+to the north of Forest Town.<NEWBOX>
+Thanks again for finding the key.<LINE>
+Take this Bomb Core.<NEWBOX>
+Bomberman obtained the Bomb Core!<LINE>
+<CONTROL_CODE><$12><$0C><CONTROL_CODE><$03><$01>の<NEWBOX>
+You can use this to synthesize a lot of items.<LINE>
+It should be good synthesis material,<NEWBOX>
+so you should be able to put it to good use.<LINE>
+Try it out with a bunch of other items at the Synthesis Shop.<NEWBOX>
+Well, take care!<END>
 
 //POINTER #62 @ $1C1C34 - STRING #62 @ $1BF755
 
@@ -1093,7 +1093,7 @@ Alright, that's the game!<END>
 //POINTER #105 @ $1C1CE0 - STRING #105 @ $1C0708
 
 #WRITE(GBA,$1C1CE0)
-きみも とけないこおりを とりにきたのかい?<LINE>
+Are you here to get some unmelting ice?<LINE>
 ここの こおりは なかなか とけないから<NEWBOX>
 いろいろとつかえて べんりなんだ<LINE>
 ごうせいやで ごうせいしてくれるよ<NEWBOX>
@@ -1398,14 +1398,14 @@ To the east is East Aqua<END>
 //POINTER #147 @ $1C1D88 - STRING #147 @ $1C0ECE
 
 #WRITE(GBA,$1C1D88)
-<CONTROL_CODE><$01><$01>ゆ3Aこれより きたのだんがい<LINE>
-にしへいくと こおりのどうくつ<END>
+<CONTROL_CODE><$01><$01>ゆ3ANorthern Cliff<LINE>
+To the west is Ice Cave<END>
 
 //POINTER #148 @ $1C1D8C - STRING #148 @ $1C0EF1
 
 #WRITE(GBA,$1C1D8C)
-<CONTROL_CODE><$01><$01>ゆ3Bもんを とおるかたは<LINE>
-もんばんに はなしかけてください<END>
+<CONTROL_CODE><$01><$01>ゆ3BTo pass through the gate,<LINE>
+please speak to the gatekeeper.<END>
 
 //POINTER #149 @ $1C1D90 - STRING #149 @ $1C0F13
 
