@@ -114,10 +114,10 @@ so please be careful alright?<END>
 //POINTER #8 @ $1C1B5C - STRING #8 @ $1BE21E
 
 #WRITE(GBA,$1C1B5C)
-おや こんなところまで よくきたね<LINE>
-ボクらは キャラボンけんきゅうか<NEWBOX>
-キャラボンについて はなしを きくかい?<LINE>
-    はい       いいえ<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$27><$04><$29>Hey, the bridge to get to West Aqua<LINE>
+Oh, you made it here.<LINE>
+We're Charabon researchers.<NEWBOX>
+Do you want to hear about Charabon?<LINE>
+    Yes        No<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$27><$04><$29>Hey, the bridge to get to West Aqua<LINE>
 was fixed!<NEWBOX>
 That carpenter is pretty<LINE>
 great!<END>
@@ -403,49 +403,49 @@ Well then, take care.<END>
 //POINTER #39 @ $1C1BD8 - STRING #39 @ $1BECAC
 
 #WRITE(GBA,$1C1BD8)
-<CONTROL_CODE><$01><$02>83ほキャラボンというのは かわった<LINE>
-のうりょくをもった いきものなんだ<NEWBOX>
-とくしゅのうりょくは そのキャラボンを<LINE>
-セットしているときに つかえるよ<NEWBOX>
-キャラボンの なかには<LINE>
-セットしていなくても のうりょくが<NEWBOX>
-ゆうこうな キャラボンも<LINE>
+<CONTROL_CODE><$01><$02>83Charabom are creatures<LINE>
+with unusual powers.<NEWBOX>
+You can use each Charabom's special<LINE>
+power once you set it.<NEWBOX>
+Some Charabom, however,<LINE>
+don't need to be set, and others<NEWBOX>
+are simply friendly.<LINE>
 いるんだよ<NEWBOX>
-お よくみれば キミも<LINE>
-キャラボンを つれているね<NEWBOX>
-よし キミに これをあげよう<NEWBOX>
-<CONTROL_CODE><$03><$02>8ボンバーマンは キャラボンずかんを<LINE>
-てにいれた!<CONTROL_CODE><$12><$0C><CONTROL_CODE><$03><$01>7<NEWBOX>
-あたらしい キャラボンをみつけると<LINE>
-じどうてきに かきこまれるよ<NEWBOX>
-その ずかんが ぜんぶ うまったら<LINE>
-もういちど ここにきてごらん<END>
+If you look hard enough, you'll<LINE>
+run across Charabom.<NEWBOX>
+Here, let me give you this.<NEWBOX>
+<CONTROL_CODE><$03><$02>8Bomberman obtained the Charadex!<LINE>
+<CONTROL_CODE><$12><$0C><CONTROL_CODE><$03><$01>7<NEWBOX>
+When you find a new Charabom,<LINE>
+it will be registered automatically.<NEWBOX>
+If you fill the whole thing,<LINE>
+come back here and show me.<END>
 
 //POINTER #40 @ $1C1BDC - STRING #40 @ $1BEDB9
 
 #WRITE(GBA,$1C1BDC)
-キャラボンというのは かわった<LINE>
-のうりょくをもった いきものなんだ<NEWBOX>
-とくしゅのうりょくは そのキャラボンを<LINE>
-セットしているときに つかえるよ<NEWBOX>
-キャラボンの なかには<LINE>
-セットしていなくても のうりょくが<NEWBOX>
-ゆうこうな キャラボンも<LINE>
+Charabon are creatures<LINE>
+with unusal powers.<NEWBOX>
+You can use each Charabom's special<LINE>
+powers once you set it.<NEWBOX>
+Some Charabom, however,<LINE>
+don't need to be set, and others<NEWBOX>
+are simply friendly.<LINE>
 いるんだよ<END>
 
 //POINTER #41 @ $1C1BE0 - STRING #41 @ $1BEE31
 
 #WRITE(GBA,$1C1BE0)
-そうか‥‥ キャラボンについて<LINE>
-ききたくなったら いつでも おいで<END>
+Oh... If you don't want to hear<LINE>
+about Charabon now, you can come back...<END>
 
 //POINTER #42 @ $1C1BE4 - STRING #42 @ $1BEE53
 
 #WRITE(GBA,$1C1BE4)
-やぁ いらっしゃい<LINE>
-ボクらは キャラボンけんきゅうか<NEWBOX>
-キャラボンの しんかについて ききたい?<LINE>
-    はい       いいえ<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$2B><$04><$2C>ときどきでてくる フルーツは<LINE>
+Oh, hello!<LINE>
+We're Charabom researchers.<NEWBOX>
+Do you want to hear about Charabom evolution?<LINE>
+    Yes       No<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$2B><$04><$2C>ときどきでてくる フルーツは<LINE>
 キャラボンの だいこうぶつなんだ<NEWBOX>
 フルーツをとると セットしている<LINE>
 キャラボンの せいちょうゲージが ふえるよ<NEWBOX>
@@ -459,16 +459,16 @@ Well then, take care.<END>
 //POINTER #43 @ $1C1BE8 - STRING #43 @ $1BEE9D
 
 #WRITE(GBA,$1C1BE8)
-ときどきでてくる フルーツは<LINE>
-キャラボンの だいこうぶつなんだ<NEWBOX>
-フルーツをとると セットしている<LINE>
-キャラボンの せいちょうゲージが ふえるよ<NEWBOX>
-ゲージが いっぱいになると そのキャラボンは<LINE>
-1だんかい しんか するんだ<NEWBOX>
-しんかすると キャラボンの のうりょくが<LINE>
-すこし へんかするよ<NEWBOX>
-フルーツによって せいちょうゲージの<LINE>
-ふえかたが ちがうよ<END>
+Sometimes, you may discover fruit<LINE>
+that a Charabom might really like.<NEWBOX>
+When you find a fruit, the set Charabom's<LINE>
+growth gague will fill up.<NEWBOX>
+When the gague is full, your Charabom<LINE>
+will evolve to the next stage.<NEWBOX>
+When your Charabom evolves, its powers<LINE>
+will change a little.<NEWBOX>
+Depending on the fruit, the gague<LINE>
+might fill up more than others.<END>
 
 //POINTER #44 @ $1C1BEC - STRING #44 @ $1BEF48
 
@@ -533,14 +533,14 @@ Well then, take care.<END>
 //POINTER #50 @ $1C1C04 - STRING #50 @ $1BF1C7
 
 #WRITE(GBA,$1C1C04)
-<CONTROL_CODE><$01><$02>ズ3れ<CONTROL_CODE><$03><$02>ズボクのたからものが みたいんでしょ?<LINE>
-しょうがないなぁ ちょっとだけだよ‥‥<NEWBOX>
-え? このカギがほしいの!?<LINE>
-だめだよ! ボクのたからものなんだから<NEWBOX>
-‥‥どうしても ひつようなの?<LINE>
-これがないと こまるひとが いるの?<NEWBOX>
-う~ん それじゃ ボクとしょうぶして<LINE>
-ミニゲームにかてたら カギはかえすよ<END>
+<CONTROL_CODE><$01><$02>ズ3れ<CONTROL_CODE><$03><$02>ズDo you want to see my treasure?<LINE>
+Well, I guess... Maybe...<NEWBOX>
+Huh? You want this key!?<LINE>
+No, never! It's my treasure!<NEWBOX>
+‥‥why do you need it?<LINE>
+You're in trouble if you don't have it?<NEWBOX>
+Hmm... well, if you beat me in<LINE>
+a mini-game, I'll give it back.<END>
 
 //POINTER #51 @ $1C1C08 - STRING #51 @ $1BF264
 
@@ -622,14 +622,14 @@ Rボタンでボムを チェンジじゃ<END>
 //POINTER #58 @ $1C1C24 - STRING #58 @ $1BF566
 
 #WRITE(GBA,$1C1C24)
-<CONTROL_CODE><$01><$02>い3っ<CONTROL_CODE><$01><$02>93ぅ<CONTROL_CODE><$03><$02>9もんを とおりたいのかい?<LINE>
-う~ん こまったな‥‥じつは‥‥<NEWBOX>
-もんのカギを なくしてしまったんだ<LINE>
-アレがないと もんを あけられないんだ<NEWBOX>
-まいったな‥‥ どこに おとしたのかなぁ<LINE>
-キミも さがしてくれないかい?<NEWBOX>
-もしかしたら かわにおちて<LINE>
-みなみのほうに ながされたのかも‥‥<END>
+<CONTROL_CODE><$01><$02>い3っ<CONTROL_CODE><$01><$02>93ぅ<CONTROL_CODE><$03><$02>You want to get past the bridge?<LINE>
+Uh... that might be tough... Well...‥<NEWBOX>
+I've lost the key, unfortunately.<LINE>
+Without it, the gate won't open.<NEWBOX>
+I gave up on finding it. I'm not sure where I dropped it.<LINE>
+Will you look for it for me?<NEWBOX>
+Maybe I dropped it in the river<LINE>
+and it was carried south...<END>
 
 //POINTER #59 @ $1C1C28 - STRING #59 @ $1BF601
 
@@ -873,15 +873,15 @@ Rボタンを おすと ボムが<LINE>
 //POINTER #85 @ $1C1C90 - STRING #85 @ $1BFF30
 
 #WRITE(GBA,$1C1C90)
-この あしばのうえで<LINE>
-まわりからとんでくる たまをかわして<NEWBOX>
-じかんいっぱい いきのこれたら<LINE>
-キミのかちだよ<NEWBOX>
-ボクの のうりょくは シールド<LINE>
-Bボタンをおすと まえからのたまを ふせぐよ<NEWBOX>
-コウモリと らくせきは<LINE>
-シールドでふせげないから きをつけてね<NEWBOX>
-それじゃ しょうぶだ!<END>
+While on this platform,<LINE>
+balls will fly at you from every direction.<NEWBOX>
+If you survive until time runs out,<LINE>
+you win!<NEWBOX>
+My power is Shield!<LINE>
+If you press the B Button, you can block balls in front of you.<NEWBOX>
+You can't defend from<LINE>
+bats or falling rocks with the Shield, so be careful!<NEWBOX>
+Alright, that's the game!<END>
 
 //POINTER #86 @ $1C1C94 - STRING #86 @ $1BFFB9
 
