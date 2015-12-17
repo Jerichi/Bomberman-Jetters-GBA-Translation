@@ -177,12 +177,12 @@ were knocked down by the tremor.<END>
 //POINTER #15 @ $1C1B78 - STRING #15 @ $1BE41A
 
 #WRITE(GBA,$1C1B78)
-あいていた このへやを ふたりぐみの<LINE>
-トレジャーハンターに かしたんだけど<NEWBOX>
-さいきん めっきり すがたをみないんだ<LINE>
-どこにいったのかねぇ<NEWBOX>
-そろそろ やちんを<LINE>
-はらってもらいたいんじゃが‥‥<END>
+I am renting a room to a pair<LINE>
+of treasure hunters, but surprisingly<NEWBOX>
+I haven't seen much of them recently.<LINE>
+I wonder where they are...<NEWBOX>
+I hope that they pay<LINE>
+their rent soon‥‥<END>
 
 //POINTER #16 @ $1C1B7C - STRING #16 @ $1BE479
 
@@ -204,10 +204,10 @@ It's sorta scary...<END>
 //POINTER #18 @ $1C1B84 - STRING #18 @ $1BE50B
 
 #WRITE(GBA,$1C1B84)
-<CONTROL_CODE><$01><$02>う3けもりに うちゅうせんが おりてきてから<LINE>
-はっくつげんばで さぎょうしていた はかせと<NEWBOX>
-れんらくが とれなくなったらしいんじゃ<LINE>
-なにか あったんじゃろうか‥‥<END>
+<CONTROL_CODE><$01><$02>う3けSince that spaceship descended into the forest,<LINE>
+when the professor was working at the excavation site.<NEWBOX>
+We haven't been able to get in contact with him since.<LINE>
+I wonder if something happened‥‥<END>
 
 //POINTER #19 @ $1C1B88 - STRING #19 @ $1BE560
 
@@ -218,11 +218,11 @@ It's sorta scary...<END>
 //POINTER #20 @ $1C1B8C - STRING #20 @ $1BE579
 
 #WRITE(GBA,$1C1B8C)
-<CONTROL_CODE><$01><$02>う3ょうちゅうせんから おりてきたやつら<LINE>
-はっくつげんばのほうに いったんだ<NEWBOX>
-はっくつげんばでは ミドリはかせが<LINE>
-こうせんほうを ちょうさしていたんだ‥‥<NEWBOX>
-はかせが ぶじならいいけど‥‥<END>
+<CONTROL_CODE><$01><$02>う3ょThose guys that came down in the spaceship<LINE>
+are around the excavation site.<NEWBOX>
+Professor Green is there<LINE>
+investigating the Beam Gun.‥‥<NEWBOX>
+I hope the Professor is okay‥‥<END>
 
 //POINTER #21 @ $1C1B90 - STRING #21 @ $1BE5DA
 
@@ -233,12 +233,12 @@ It's sorta scary...<END>
 //POINTER #22 @ $1C1B94 - STRING #22 @ $1BE5F3
 
 #WRITE(GBA,$1C1B94)
-さいきん このまちの<LINE>
-けんきゅうじょの よこのいえに<NEWBOX>
-ふたりぐみの トレジャーハンターが<LINE>
-ひっこしてきたの<NEWBOX>
-なんでも おたからを ほりあてて<LINE>
-いっぱつ あてたいんだとか‥‥<END>
+Two treausure hunters recently<LINE>
+moved into the house next<NEWBOX>
+door next to the laboratory.<LINE>
+<NEWBOX>
+They've dug up so much treasure,<LINE>
+I bet their house is full‥‥<END>
 
 //POINTER #23 @ $1C1B98 - STRING #23 @ $1BE64A
 #ACTIVETBL(engTable)
@@ -683,8 +683,8 @@ Rボタンを おすと ボムが<LINE>
 //POINTER #64 @ $1C1C3C - STRING #64 @ $1BF7EF
 
 #WRITE(GBA,$1C1C3C)
-いらっしゃいませ しょうひんを<LINE>
-てにとって ごらんください<END>
+Welcome! Come and take<LINE>
+a look around.<END>
 
 //POINTER #65 @ $1C1C40 - STRING #65 @ $1BF80D
 
@@ -712,12 +712,12 @@ Rボタンを おすと ボムが<LINE>
 //POINTER #68 @ $1C1C4C - STRING #68 @ $1BF8C5
 
 #WRITE(GBA,$1C1C4C)
-<CONTROL_CODE><$01><$02>ぴ3キ<CONTROL_CODE><$01><$02>ぼ3オ<CONTROL_CODE><$01><$01>め3エウチはむかしから だいだい<LINE>
-びんぼうな かけいでな‥‥<NEWBOX>
-オイラのだいになっても あいかわらず<LINE>
-かねが ないのさ‥‥<NEWBOX>
-あー どこかに<LINE>
-ウマいはなしは ないかなぁ‥‥<END>
+<CONTROL_CODE><$01><$02>ぴ3キ<CONTROL_CODE><$01><$02>ぼ3オ<CONTROL_CODE><$01><$01>め3エMy whole family has been<LINE>
+poor for many generations‥‥<NEWBOX>
+I'm no different and I still<LINE>
+have no money‥‥<NEWBOX>
+Ah, if only there<LINE>
+a way to make some cash‥‥<END>
 
 //POINTER #69 @ $1C1C50 - STRING #69 @ $1BF929
 
@@ -886,16 +886,16 @@ Alright, that's the game!<END>
 //POINTER #86 @ $1C1C94 - STRING #86 @ $1BFFB9
 
 #WRITE(GBA,$1C1C94)
-<CONTROL_CODE><$0D><$02><$FD><CONTROL_CODE><$01><$02>う3ネあの こうせんほうは もともと<LINE>
-まちにしんにゅうする モンスターを<NEWBOX>
-げきたいするために つくられた<LINE>
-もののようです<NEWBOX>
-でも パワーのちょうせいしだいでは<LINE>
-わくせいを はかいするほどの<NEWBOX>
-こうせんを はなつことも<LINE>
-できたとか‥‥<NEWBOX>
-あんなものが ヒゲヒゲだんの てに<LINE>
-わたってしまったら‥‥<END>
+<CONTROL_CODE><$0D><$02><$FD><CONTROL_CODE><$01><$02>う3ネThe Beam Gun was originally<LINE>
+used to  keep the out monsters<NEWBOX>
+that used to invade the town.<LINE>
+<NEWBOX>
+But because the beam was so powerful<LINE>
+it could destroy the entire planet<NEWBOX>
+if it was fired...<LINE>
+<NEWBOX>
+If it were to fall into the hands<LINE>
+of those Higehige Squad guys‥‥<END>
 
 //POINTER #87 @ $1C1C98 - STRING #87 @ $1BFFBC
 
@@ -962,20 +962,20 @@ Alright, that's the game!<END>
 //POINTER #92 @ $1C1CAC - STRING #92 @ $1C01BF
 
 #WRITE(GBA,$1C1CAC)
-<CONTROL_CODE><$01><$02>う3フミドリはかせは いつも<LINE>
-げんばで しきを とっていました<NEWBOX>
-ヤツらが おしいってきた あのひも<LINE>
-はかせは はっくつげんばに いたんです<NEWBOX>
-ヤツらは ミドリはかせと<LINE>
-じょしゅの シロウさんを ひとじちにして<NEWBOX>
-われわれを はっくつげんばから<LINE>
-おいだしたんです<NEWBOX>
-こうせんほうを ほりだしたら<LINE>
-ふたりは ぶじに かえすといっていましたが<NEWBOX>
-あの ヒゲヒゲだんの いうことなんて<LINE>
-しんようできません<NEWBOX>
-あぁ‥‥しんぱいだ‥‥<LINE>
-ミドリはかせは ぶじだろうか‥‥<END>
+<CONTROL_CODE><$01><$02>う3Professor Green is always<LINE>
+out managing the dig site.<NEWBOX>
+Some guys broke in one day<LINE>
+when the Professor was there.<NEWBOX>
+They've held the Professor<LINE>
+and his assistant, Shirou, hostage.<NEWBOX>
+We managed to drive them out<LINE>
+from the dig site.<NEWBOX>
+They managed to dig up the Beam Gun<LINE>
+and bring it back without a hitch, but<NEWBOX>
+I don't trust that<LINE>
+Higehige Squad...<NEWBOX>
+Man‥‥I'm worried‥‥<LINE>
+I hope Professor Green is okay‥‥<END>
 
 //POINTER #93 @ $1C1CB0 - STRING #93 @ $1C02A2
 
@@ -1048,10 +1048,10 @@ Alright, that's the game!<END>
 //POINTER #100 @ $1C1CCC - STRING #100 @ $1C0569
 
 #WRITE(GBA,$1C1CCC)
-<CONTROL_CODE><$01><$02>う3ヤサイエンスニュース<LINE>
-セカセカせいの クロノはかせ<NEWBOX>
-クロノりろんによる タイムエンジンの<LINE>
-かいはつを かいし!<END>
+<CONTROL_CODE><$01><$02>う3Science News<LINE>
+Utilizing the theory by <NEWBOX>
+Chrono of Sekaseka, the development of the Time Engine<LINE>
+has begun!<END>
 
 //POINTER #101 @ $1C1CD0 - STRING #101 @ $1C05A6
 
@@ -1130,46 +1130,46 @@ CONTROL_CODE><$12><$0C><END>
 //POINTER #110 @ $1C1CF4 - STRING #110 @ $1C0818
 
 #WRITE(GBA,$1C1CF4)
-ハートが ぜんぶ かいふくします<NEWBOX>
-おおきいクスリを かいますか?<LINE>
-    はい       いいえ<CONTROL_CODE><$17><$03>1い13ざ3じボンバーマンは おおきいクスリを<LINE>
+Use this to restore all your hearts.<NEWBOX>
+Do you want to buy the Big Potion?<LINE>
+    Yes       No<CONTROL_CODE><$17><$03>1い13ざ3じBomberman got the Big Potion!<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #111 @ $1C1CF8 - STRING #111 @ $1C0853
 
 #WRITE(GBA,$1C1CF8)
-ボンバーマンは おおきいクスリを<LINE>
+Bomberman got the Big Potion!<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #112 @ $1C1CFC - STRING #112 @ $1C086E
 
 #WRITE(GBA,$1C1CFC)
-のむと ドクロのどくを<LINE>
-すぐに けすことができます<NEWBOX>
-どくけしを かいますか?<LINE>
-    はい       いいえ<CONTROL_CODE><$17><$03>1い13ざ3じボンバーマンは どくけしを<LINE>
+If you drink this, you will<LINE>
+immediately be rid of the Skull's poison.<NEWBOX>
+Do you want to buy the Antidote?<LINE>
+    Yes       No<CONTROL_CODE><$17><$03>1い13ざ3じBomberman got the Antidote!<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #113 @ $1C1D00 - STRING #113 @ $1C08AF
 
 #WRITE(GBA,$1C1D00)
-ボンバーマンは どくけしを<LINE>
+Bomberman got the Antidote<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #114 @ $1C1D04 - STRING #114 @ $1C08C7
 
 #WRITE(GBA,$1C1D04)
-コロコロコミック 1がつごう<NEWBOX>
-ガッツなわらいと ちょうドはくりょく!<LINE>
-ボスの こうりゃくほうが かいてあります<NEWBOX>
-コロコロコミックを かいますか?<LINE>
-    はい       いいえ<CONTROL_CODE><$17><$03>1い13ざ3じボンバーマンは コロコロコミックを<LINE>
+The January edition of Corocoro Comics<NEWBOX>
+It's got just the right amount of intensity and humor!<LINE>
+It's filled with hints for bosses!<NEWBOX>
+Do you want to buy the Corocoro Comic?<LINE>
+    はい       いいえ<CONTROL_CODE><$17><$03>1い13ざ3じBomberman bought the Corocoro Comic!<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #115 @ $1C1D08 - STRING #115 @ $1C092A
 
 #WRITE(GBA,$1C1D08)
-ボンバーマンは コロコロコミックを<LINE>
+Bomberman bought the Corocoro Comic!<LINE>
 てにいれた!<CONTROL_CODE><$12><$0C><END>
 
 //POINTER #116 @ $1C1D0C - STRING #116 @ $1C0946
@@ -1426,7 +1426,7 @@ please speak to the gatekeeper.<END>
 //POINTER #152 @ $1C1D9C - STRING #152 @ $1C0F5D
 
 #WRITE(GBA,$1C1D9C)
-<CONTROL_CODE><$01><$01>ゆ3Fミドリけんきゅうじょ<END>
+<CONTROL_CODE><$01><$01>ゆ3FGreen Laboratories<END>
 
 //POINTER #153 @ $1C1DA0 - STRING #153 @ $1C0F6E
 
@@ -1947,7 +1947,7 @@ Keep that in mind. It's important!‥‥<END>
 //POINTER #209 @ $1C1E80 - STRING #209 @ $1C1A9B
 
 #WRITE(GBA,$1C1E80)
-あかいスイッチは ボムのばくふうで<LINE>
+The red switch blows up bombs.<LINE>
 みどりのスイッチは ふんできりかえるんだよ<NEWBOX>
 きいろいスイッチは スイッチのうえに<LINE>
 ものが のっているあいだだけ オンになるんだ<END>
