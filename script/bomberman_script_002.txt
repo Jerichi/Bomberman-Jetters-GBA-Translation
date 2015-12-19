@@ -287,52 +287,52 @@ Well then, take care.<END>
 //POINTER #27 @ $1C1BA8 - STRING #27 @ $1BE7F1
 
 #WRITE(GBA,$1C1BA8)
-<CONTROL_CODE><$19><$05>トレジャンおぉ たすかった!<LINE>
-もう いっしょう でられないかと おもったよ<NEWBOX>
-オレたちは トレジャーハンター<LINE>
-たからをさがして うちゅうをまわってるんだ<NEWBOX>
-ミドリはかせが ここのやまから<LINE>
-こだいのいさんを ほりだしたのをきいて<NEWBOX>
-オレたちも ひとやまあてようと<LINE>
-いわやまを ほりすすんでいたんだが<NEWBOX>
-なんにちか まえに とつぜんはげしい<LINE>
-じひびきがして かべがくずれてしまったんだ<NEWBOX>
-とにかく でぐちを あけてくれて ありがとう<LINE>
-たすかったよ<END>
+<CONTROL_CODE><$19><$05>Trejan Oh, you saved us!<LINE>
+I think that we can get out together.<NEWBOX>
+We're treasure hunters.<LINE>
+We've been flying around space looking for treasure.<NEWBOX>
+We heard that Professor Green<LINE>
+was digging up some important ruins from this mountain.<NEWBOX>
+We thought we might strike it rich,<LINE>
+so we started digging ourselves, but<NEWBOX>
+A few days ago, a sudden, violent<LINE>
+quake caused the walls to collapse.<NEWBOX>
+Anyway, thank you for opening the exit!<LINE>
+You really saved us!<END>
 
 //POINTER #28 @ $1C1BAC - STRING #28 @ $1BE8CD
 
 #WRITE(GBA,$1C1BAC)
-<CONTROL_CODE><$19><$04>ハンタラありがとうついでに ひとつたのみがあるんだが<LINE>
-ちょっと ついてきてくれ‥‥<END>
+<CONTROL_CODE><$19><$04>Huntera Thanks! Oh and if you have a moment,<LINE>
+we'd like to ask a favor‥‥<END>
 
 //POINTER #29 @ $1C1BB0 - STRING #29 @ $1BE8FA
 
 #WRITE(GBA,$1C1BB0)
-<CONTROL_CODE><$19><$05>エレファンおねがいです ボンバーマンさん<LINE>
-わたしのねがいを きいてください<NEWBOX>
-わたしのむすこを さがしてください<LINE>
-もりのどこかに いるはずなんです<NEWBOX>
-あのとき わたしはむすこと もりにいました<LINE>
-とつぜん おおきなうちゅうせんが<NEWBOX>
-もりのきを なぎたおしながら<LINE>
-すごいいきおいで おりてきたんです<NEWBOX>
-そのときのショックで わたしはケガをして<LINE>
-むすこと はぐれてしまったんです<END>
+<CONTROL_CODE><$19><$05>Elefan Please help, Mr. Bomberman.<LINE>
+Please hear my request.<NEWBOX>
+Please find my son.<LINE>
+He should be somewhere around the forest.<NEWBOX>
+A little while ago, my son and I were there.<LINE>
+But suddenly, a huge spaceship<NEWBOX>
+broke a number of trees.<LINE>
+It was so powerful!<NEWBOX>
+I was injured and in a state of shock, so<LINE>
+I lost sight of my son.<END>
 
 //POINTER #30 @ $1C1BB4 - STRING #30 @ $1BE9B4
 
 #WRITE(GBA,$1C1BB4)
-<CONTROL_CODE><$19><$04>ハンタラオレたちも さんざん もりを さがしたんだが<LINE>
-けっきょく こどもは みつからなくてな<NEWBOX>
-もしかしたら うちゅうせんの むこうがわに<LINE>
-いるのかもしれん‥‥<NEWBOX>
-エレファンのこどもを さがしてきてくれないか<LINE>
-オレたちは ここで まっているよ<NEWBOX>
-したのつうろが もりにつながっているんだ<LINE>
-とちゅうには モンスターがいるから<NEWBOX>
-きをつけて いってくれ<LINE>
-それじゃ たのんだぞ<END>
+<CONTROL_CODE><$19><$04>Huntera We've searched the entire forest, but<LINE>
+even after that we couldn't find him.<NEWBOX>
+He might just be on the other side of<LINE>
+that spaceship‥‥<NEWBOX>
+Will you help look for Elefan's son?<LINE>
+We'll wait here.<NEWBOX>
+There's an undergroud passage that will take you to the forest<LINE>
+Be careful! You'll run across some monsters on the way.<NEWBOX>
+Take care!<LINE>
+We're counting on you!<END>
 
 //POINTER #31 @ $1C1BB8 - STRING #31 @ $1BEA6D
 
@@ -940,16 +940,16 @@ of those Higehige Squad guys‥‥<END>
 //POINTER #90 @ $1C1CA4 - STRING #90 @ $1C00CD
 
 #WRITE(GBA,$1C1CA4)
-<CONTROL_CODE><$01><$02>う3ハミドリはかせと われわれは<LINE>
-ここ ノンビリせいの<NEWBOX>
-こだいぶんめいについて<LINE>
-ずっと けんきゅうしてきました<NEWBOX>
-そして すうしゅうかんまえに はじめて<LINE>
-こだいぶんめいの しょうこである<NEWBOX>
-こうせんほうを はっけんしたのです<NEWBOX>
-その けんきゅうせいかを あんな<LINE>
-とうぞくどもに とられるのかと おもうと<NEWBOX>
-くやしくて よるも ねむれませんよ<END>
+<CONTROL_CODE><$01><$02>う3We've been working here<LINE>
+with Professor Green to study<NEWBOX>
+the ancient civilization of Nonbiri<LINE>
+for a while now.<NEWBOX>
+Only after a few weeks did we<LINE>
+find evidence of such a civilization.<NEWBOX>
+We discovered the Beam Gun.<NEWBOX>
+Thinking that our findings could be<LINE>
+stolen by those thieves worries me<NEWBOX>
+so much, I can hardly sleep.<END>
 
 //POINTER #91 @ $1C1CA8 - STRING #91 @ $1C0177
 
@@ -966,11 +966,11 @@ of those Higehige Squad guys‥‥<END>
 out managing the dig site.<NEWBOX>
 Some guys broke in one day<LINE>
 when the Professor was there.<NEWBOX>
-They've held the Professor<LINE>
+They held the Professor<LINE>
 and his assistant, Shirou, hostage.<NEWBOX>
 We managed to drive them out<LINE>
 from the dig site.<NEWBOX>
-They managed to dig up the Beam Gun<LINE>
+They were able to dig up the Beam Gun<LINE>
 and bring it back without a hitch, but<NEWBOX>
 I don't trust that<LINE>
 Higehige Squad...<NEWBOX>
@@ -988,14 +988,14 @@ I hope Professor Green is okay‥‥<END>
 //POINTER #94 @ $1C1CB4 - STRING #94 @ $1C02E3
 
 #WRITE(GBA,$1C1CB4)
-<CONTROL_CODE><$01><$02>う3ホあのひ ふたりをひとじちにして<LINE>
-われわれを おいだしたヤツラは<NEWBOX>
-はっくつげんばの いりぐちに<LINE>
-おおいわをおいて ふさいでしまいました<NEWBOX>
-はかせを たすけに いきたくても<LINE>
-あの おおきないわを どうにかしないと<NEWBOX>
-いせきに はいることも できません<LINE>
-どうしたら いいんだろう‥‥<END>
+<CONTROL_CODE><$01><$02>う3ホA few days ago, the professor<LINE>
+and his assitant were taken hostage, but they ran off.<NEWBOX>
+Now, they've blocked the entrance<LINE>
+to the excavation site with a huge stone.<NEWBOX>
+We want to go help the Professor,<LINE>
+but we're not sure what to do about the rock,<NEWBOX>
+so we can't get to the ruins.<LINE>
+What should we do‥‥<END>
 
 //POINTER #95 @ $1C1CB8 - STRING #95 @ $1C0372
 
@@ -1008,10 +1008,10 @@ I hope Professor Green is okay‥‥<END>
 //POINTER #96 @ $1C1CBC - STRING #96 @ $1C03B3
 
 #WRITE(GBA,$1C1CBC)
-<CONTROL_CODE><$01><$02>う3ミヤツら ヒゲヒゲだんは うちゅうに<LINE>
-ひとつしかないものを あつめているとか‥‥<NEWBOX>
-なにも われわれの はっくつした<LINE>
-こうせんほうに めをつけなくても いいのに<END>
+<CONTROL_CODE><$01><$02>う3ミThose Higehige Squad guys are<LINE>
+only looking for one thing‥‥<NEWBOX>
+They've had their eyes fixed on that<LINE>
+Beam Gun we dug up.<END>
 
 //POINTER #97 @ $1C1CC0 - STRING #97 @ $1C0408
 
@@ -1410,7 +1410,7 @@ please speak to the gatekeeper.<END>
 //POINTER #149 @ $1C1D90 - STRING #149 @ $1C0F13
 
 #WRITE(GBA,$1C1D90)
-<CONTROL_CODE><$01><$01>ゆ3Cいせき はっくつげんば いりぐち<END>
+<CONTROL_CODE><$01><$01>ゆ3CRuin Excavation Site Entrance<END>
 
 //POINTER #150 @ $1C1D94 - STRING #150 @ $1C0F2A
 
@@ -1706,10 +1706,10 @@ stop their plans for me.<WAIT>
 //POINTER #182 @ $1C1E14 - STRING #182 @ $1C14E3
 
 #WRITE(GBA,$1C1E14)
-にし いせき はっくつげんば<LINE>
-みなみ モリモリのもり<NEWBOX>
-キャラボンずかんを ぜんぶ うめたら<LINE>
-けんきゅうかの ところに いってみよう<END>
+West: Ruin Excavation Site<LINE>
+South: Morimori Forest<NEWBOX>
+If you register all the Charabon in the Charadex,<LINE>
+take it back to the Research Lab.<END>
 
 //POINTER #183 @ $1C1E18 - STRING #183 @ $1C1525
 
