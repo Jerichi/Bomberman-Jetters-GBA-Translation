@@ -758,12 +758,12 @@ a way to make some cash‥‥<END>
 //POINTER #73 @ $1C1C60 - STRING #73 @ $1BFA53
 
 #WRITE(GBA,$1C1C60)
-<CONTROL_CODE><$19><$03>エレフうわーん うわーん さみしいよー<LINE>
-こわいよー おかあさーん<NEWBOX>
-おなかへったよー ‥‥‥‥<LINE>
-‥‥‥ん?だれ? ここからだしてくれるの?<NEWBOX>
-おかあさんに あわせてくれるの?<LINE>
-‥‥‥‥うわーん おかあさーん<END>
+<CONTROL_CODE><$19><$03>Elef Waah waaah! I'm scared!<LINE>
+Where is my mommy!<NEWBOX>
+I'm hungry ‥‥‥‥<LINE>
+‥‥‥Huh? Who are you? Can you get me out of her?<NEWBOX>
+Can you take my back to my mommy?<LINE>
+‥‥‥‥I want my mommy...<END>
 
 //POINTER #74 @ $1C1C64 - STRING #74 @ $1BFABC
 
