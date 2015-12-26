@@ -761,7 +761,7 @@ a way to make some cash‥‥<END>
 <CONTROL_CODE><$19><$03>Elef Waah waaah! I'm scared!<LINE>
 Where is my mommy!<NEWBOX>
 I'm hungry ‥‥‥‥<LINE>
-‥‥‥Huh? Who are you? Can you get me out of her?<NEWBOX>
+‥‥‥Huh? Who are you? Can you get me out of here?<NEWBOX>
 Can you take my back to my mommy?<LINE>
 ‥‥‥‥I want my mommy...<END>
 
