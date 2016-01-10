@@ -768,19 +768,19 @@ Can you take my back to my mommy?<LINE>
 //POINTER #74 @ $1C1C64 - STRING #74 @ $1BFABC
 
 #WRITE(GBA,$1C1C64)
-<CONTROL_CODE><$19><$03>エレフおかあさーん さみしかったよー<LINE>
-あいたかったよー!<NEWBOX>
-<CONTROL_CODE><$19><$05>エレファンよしよし もうだいじょうぶだよ<LINE>
-かあさんも あいたかったよ<NEWBOX>
-<CONTROL_CODE><$19><$03>エレフうわーん おかあさーん<LINE>
-おなかすいたよー<NEWBOX>
-<CONTROL_CODE><$19><$05>エレファンこれこれ おとこのこでしょう もうなかないで<LINE>
-ボンバーマンさんに おれいをいわなきゃ<NEWBOX>
-<CONTROL_CODE><$13><$04><CONTROL_CODE><$19><$03>エレフあっ そうだ<LINE>
-ありがとう ボンバーマン<NEWBOX>
-<CONTROL_CODE><$19><$05>エレファンボンバーマンさん ありがとうございました<LINE>
-いちじは どうなることかと‥‥<NEWBOX>
-<CONTROL_CODE><$19><$05>トレジャンさっき ちょっと みてきたんだが<LINE>
+<CONTROL_CODE><$19><$03>Elef Mommy! I was so lonely!<LINE>
+I got lost!<NEWBOX>
+<CONTROL_CODE><$19><$05>Elefan There, there, you're okay.<LINE>
+Mommy also had some trouble.<NEWBOX>
+<CONTROL_CODE><$19><$03>Elef Waaah, mommy!<LINE>
+I'm hungryyy!<NEWBOX>
+<CONTROL_CODE><$19><$05>Elefan Now now, you're a boy! Don't cry.<LINE>
+Mr. Bomberman, I need to thank you.<NEWBOX>
+<CONTROL_CODE><$13><$04><CONTROL_CODE><$19><$03>Elef Oh, yeah!<LINE>
+Thank you, Bomberman!<NEWBOX>
+<CONTROL_CODE><$19><$05>Elefan Thank you so much, Mr. Bomberman.<LINE>
+Oh one more thing‥‥<NEWBOX>
+<CONTROL_CODE><$19><$05>Treasurn さっき ちょっと みてきたんだが<LINE>
 いせきにつながる どうくつが<NEWBOX>
 おおきないわで ふさがれていたんだ<LINE>
 うちゅうせんのやつらの しわざだろう<NEWBOX>
