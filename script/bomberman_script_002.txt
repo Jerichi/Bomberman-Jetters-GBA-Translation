@@ -86,12 +86,12 @@ What do you think it was?<END>
 //POINTER #6 @ $1C1B54 - STRING #6 @ $1BE0EF
 
 #WRITE(GBA,$1C1B54)
-オウ あのときは ありがとうな<LINE>
-おまえさんの おかげで はしを なおせたよ<NEWBOX>
-まったく どこのどいつが こんな<LINE>
-めいわくなこと したんだか‥‥<NEWBOX>
-ひがしへ いくのなら<LINE>
-きをつけて いくんだぞ<END>
+Oh, thank you for before.<LINE>
+Thanks to you, the bridge got fixed.<NEWBOX>
+I hope it wasn't too much of<LINE>
+a bother‥‥<NEWBOX>
+Be careful if you<LINE>
+head east.<END>
 
 //POINTER #7 @ $1C1B58 - STRING #7 @ $1BE14D
 #ACTIVETBL(engTable)
@@ -125,10 +125,10 @@ great!<END>
 //POINTER #9 @ $1C1B60 - STRING #9 @ $1BE270
 
 #WRITE(GBA,$1C1B60)
-あ! にしアクアにいく はしが<LINE>
-なおったんだね!<NEWBOX>
-やっぱり あそこの だいくさんは<LINE>
-すごいなぁ<END>
+Oh! The bridge to West Aqua Town<LINE>
+was fixed!<NEWBOX>
+The carpenter from over there<LINE>
+really is amazing.<END>
 
 //POINTER #10 @ $1C1B64 - STRING #10 @ $1BE2A0
 
@@ -212,8 +212,8 @@ I wonder if something happened‥‥<END>
 //POINTER #19 @ $1C1B88 - STRING #19 @ $1BE560
 
 #WRITE(GBA,$1C1B88)
-なにはともあれ みんな ぶじで<LINE>
-なによりじゃ‥‥<END>
+Well anyway, at least everyone<LINE>
+is safe‥‥<END>
 
 //POINTER #20 @ $1C1B8C - STRING #20 @ $1BE579
 
@@ -337,52 +337,52 @@ We're counting on you!<END>
 //POINTER #31 @ $1C1BB8 - STRING #31 @ $1BEA6D
 
 #WRITE(GBA,$1C1BB8)
-<CONTROL_CODE><$01><$02>う3タ<CONTROL_CODE><$01><$02>け3ソ<CONTROL_CODE><$19><$05>トレジャンエレファンのこどもを さがしてきてくれ<LINE>
-オレたちは ここで まっているよ<NEWBOX>
-したのつうろが もりにつながっているんだ<LINE>
-とちゅうには モンスターがいるから<NEWBOX>
-きをつけて いってくれ<LINE>
-それじゃ たのんだぞ<END>
+<CONTROL_CODE><$01><$02>う3タ<CONTROL_CODE><$01><$02>け3ソ<CONTROL_CODE><$19><$05>Tresurn While you search for Elefan's kid<LINE>
+we'll wait here.<NEWBOX>
+The underground path passes under the forest.<LINE>
+There are some monsters along the way,<NEWBOX>
+so watch your back.<LINE>
+We're counting on you.<END>
 
 //POINTER #32 @ $1C1BBC - STRING #32 @ $1BEAE4
 
 #WRITE(GBA,$1C1BBC)
-<CONTROL_CODE><$01><$02>け3セ<CONTROL_CODE><$19><$05>エレファンおねがいです わたしの むすこを<LINE>
-さがしてきてください きっと もりにいます<NEWBOX>
-おねがいです おねがいです‥‥‥<LINE>
-わたしの むすこを‥‥‥‥<END>
+<CONTROL_CODE><$01><$02>け3セ<CONTROL_CODE><$19><$05>Elefan Please, help me look for<LINE>
+my son. He's in the forest.<NEWBOX>
+Please, please‥‥‥<LINE>
+My son‥‥‥‥<END>
 
 //POINTER #33 @ $1C1BC0 - STRING #33 @ $1BEB38
 
 #WRITE(GBA,$1C1BC0)
-ダンナは きたのもりに いるわ<LINE>
-ふっかつするキノコに きをつけてね<END>
+My husband is in the forest to the north.<LINE>
+Be careful of the regenerating mushrooms.<END>
 
 //POINTER #34 @ $1C1BC4 - STRING #34 @ $1BEB5A
 
 #WRITE(GBA,$1C1BC4)
-<CONTROL_CODE><$16><$04>のまったく このひとは<LINE>
-せわが やけるんだから‥‥<NEWBOX>
-‥‥あら あなた ケガしてるじゃないの<LINE>
-ちょっと まってなさいな<NEWBOX>
-<CONTROL_CODE><$11><$E0>くよはい これでよし!<LINE>
-あんまり ムチャするんじゃないよ<END>
+<CONTROL_CODE><$16><$04>のOh, that person seems<LINE>
+like they're in trouble.‥‥<NEWBOX>
+‥‥Oh, you look like you're hurt.<LINE>
+Wait just a second<NEWBOX>
+<CONTROL_CODE><$11><$E0>くよHere this will help!<LINE>
+It's no trouble at all.<END>
 
 //POINTER #35 @ $1C1BC8 - STRING #35 @ $1BEBB8
 
 #WRITE(GBA,$1C1BC8)
-まったく このひとは<LINE>
-せわが やけるんだから‥‥<END>
+That person seems<LINE>
+like they're in trouble‥‥<END>
 
 //POINTER #36 @ $1C1BCC - STRING #36 @ $1BEBD1
 
 #WRITE(GBA,$1C1BCC)
-このほしの どこかに とてもつよい<LINE>
-ちからをもった キャラボンが いるそうじゃ<NEWBOX>
-じゃが どこにいるのか<LINE>
-どんな のうりょくの キャラボンなのか<NEWBOX>
-だれも みたものはなく<LINE>
-すべてが なぞに つつまれているという<END>
+On this planet somewhere, there is<LINE>
+a really powerful Charabon.<NEWBOX>
+Hm, I wonder where it is<LINE>
+and what kind of power it has?<NEWBOX>
+No one has seen it, though,<LINE>
+so it's all still a mystery.<END>
 
 //POINTER #37 @ $1C1BD0 - STRING #37 @ $1BEC39
 
@@ -393,12 +393,12 @@ We're counting on you!<END>
 //POINTER #38 @ $1C1BD4 - STRING #38 @ $1BEC5B
 
 #WRITE(GBA,$1C1BD4)
-はしがなおったよ!<LINE>
-これで ひがしアクアにも<NEWBOX>
-もっとさきの フォレスタウンにも<LINE>
-いけるようになったよ!<NEWBOX>
-ひさしぶりに フォレスタウンに<LINE>
-かいものに いきたいなぁ<END>
+The bridge was fixed!<LINE>
+Now again we can go to East Aqua<NEWBOX>
+and we can even go to Forest Town<LINE>
+once again!<NEWBOX>
+I've been wanting to go to Forest Town<LINE>
+to shop for a while.<END>
 
 //POINTER #39 @ $1C1BD8 - STRING #39 @ $1BECAC
 
@@ -445,16 +445,16 @@ about Charabon now, you can come back...<END>
 Oh, hello!<LINE>
 We're Charabom researchers.<NEWBOX>
 Do you want to hear about Charabom evolution?<LINE>
-    Yes       No<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$2B><$04><$2C>ときどきでてくる フルーツは<LINE>
-キャラボンの だいこうぶつなんだ<NEWBOX>
-フルーツをとると セットしている<LINE>
-キャラボンの せいちょうゲージが ふえるよ<NEWBOX>
-ゲージが いっぱいになると そのキャラボンは<LINE>
-1だんかい しんか するんだ<NEWBOX>
-しんかすると キャラボンの のうりょくが<LINE>
-すこし へんかするよ<NEWBOX>
-フルーツによって せいちょうゲージの<LINE>
-ふえかたが ちがうよ<END>
+    Yes       No<CONTROL_CODE_E018><$03><$02><$0C><$02><$04><$2B><$04><$2C>Occasionally, fruits that<LINE>
+Charabom really like might appear.<NEWBOX>
+If you pick up the fruits, your equipped<LINE>
+Charabom's gague will fill up!<NEWBOX>
+When the gague is full, your Charabom<LINE>
+will level up and maybe evolve!<NEWBOX>
+If a Charabon evolves, its ability<LINE>
+will change a little bit.<NEWBOX>
+Some fruits will fill up<LINE>
+the gauge more than others.<END>
 
 //POINTER #43 @ $1C1BE8 - STRING #43 @ $1BEE9D
 
@@ -473,8 +473,8 @@ might fill up more than others.<END>
 //POINTER #44 @ $1C1BEC - STRING #44 @ $1BEF48
 
 #WRITE(GBA,$1C1BEC)
-そうか‥‥ キャラボンの しんかについて<LINE>
-ききたくなったら いつでも おいで<END>
+Huh‥‥ I've always wanted to know about<LINE>
+Charabom evolution.<END>
 
 //POINTER #45 @ $1C1BF0 - STRING #45 @ $1BEF6F
 
