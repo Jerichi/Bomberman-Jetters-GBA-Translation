@@ -479,24 +479,24 @@ Charabom evolution.<END>
 //POINTER #45 @ $1C1BF0 - STRING #45 @ $1BEF6F
 
 #WRITE(GBA,$1C1BF0)
-ジェッターズの リーダーである きみなら<LINE>
-すでに きづいていると おもうが<NEWBOX>
-こうせんほうを うばいにきたのは<LINE>
-あの ヒゲヒゲだんだ<NEWBOX>
-しかも うわさによると やつらは<LINE>
-さいきん しんへいきを かいはつして<NEWBOX>
-そいつの せいのうテストを<LINE>
-しているらしい<NEWBOX>
-なんでも つよいあいてと たたかわせて<LINE>
-せんとうデータを あつめているとか‥‥<END>
+Since you're the leader of the Jetters,<LINE>
+I'm sure you already know, but<NEWBOX>
+The Higehige Squad has taken<LINE>
+the beam gun.<NEWBOX>
+But there's a rumor going around<LINE>
+That they're developing a new weapon.<NEWBOX>
+It seems that they're going<LINE>
+to test its strength.<NEWBOX>
+I hear they're gathering data on<LINE>
+its power in battle‥‥<END>
 
 //POINTER #46 @ $1C1BF4 - STRING #46 @ $1BF013
 
 #WRITE(GBA,$1C1BF4)
-このさきに あやしいばしょが あるんだ<LINE>
-4つ ひとくみで いわが おいてあって‥‥<NEWBOX>
-なにか みえないものが<LINE>
-かくされているのかなぁ‥‥<END>
+Over there is a strange place.<LINE>
+Those four boulders over there‥‥<NEWBOX>
+There's something I can't see<LINE>
+hidden behind them‥‥<END>
 
 //POINTER #47 @ $1C1BF8 - STRING #47 @ $1BF057
 
